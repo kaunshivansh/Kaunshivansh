@@ -1,28 +1,39 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Shivansh&fontSize=75&fontColor=58a6ff&fontAlignY=35&desc=Cybersecurity%20·%20Systems%20·%20Post-Quantum%20Crypto&descSize=18&descAlignY=55&descColor=8b949e&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=200&section=header&text=&fontSize=1" />
 
 <div align="center">
 
-<a href="https://linkedin.com/in/bestman4thejob"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="mailto:kaunshivansh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white" /></a>&nbsp;
-<a href="https://github.com/kaunshivansh"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" /></a>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=kaunshivansh&style=flat&color=58a6ff&label=Profile+Views" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=hey%2C+i'm+shivansh+%F0%9F%91%8B;i+break+things+%26+build+them+better" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=4000&pause=800&color=8B949E&center=true&vCenter=true&repeat=true&width=500&height=25&lines=post-quantum+crypto+%C2%B7+p2p+systems+%C2%B7+rust+%C2%B7+browser+engines;building+things+nobody+asked+for+but+everyone+needs;if+it's+not+encrypted%2C+it's+not+finished" alt="Subtitle" />
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/bestman4thejob"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="mailto:kaunshivansh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+<a href="https://github.com/kaunshivansh"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=kaunshivansh&style=for-the-badge&color=1a1b27&label=VIEWS" />
 
 </div>
 
 <br/>
 
+<div align="center">
+
 ```
- 🎓  B.Tech CSE (Cybersecurity) @ MIT Manipal — Class of 2027
- 🔐  Post-quantum cryptography · Distributed systems · P2P networks
- 🌐  From Rust crates and libp2p to Three.js FPS engines in the browser
- 🤖  Also into: embedded robotics, gesture MIDI controllers, competitive programming
- ⚡  Exploring: ML-DSA-65 · Kalman Filters · WebRTC · Reed-Solomon
- 📍  Bengaluru, India
+ 🎓  B.Tech CSE (Cybersecurity) @ MIT Manipal '27
+ 🔐  Post-quantum crypto · Distributed systems · P2P networks
+ 🌐  Rust crates → libp2p nodes → Three.js FPS engines
+ 🤖  Robotics · Gesture MIDI · Competitive Programming
+ 📍  Bengaluru, IN
 ```
+
+</div>
 
 ---
 
-<h2 align="center">🛠️ Tech Arsenal</h2>
+<h2 align="center">⚡ Tech Arsenal</h2>
 
 <div align="center">
 
@@ -59,11 +70,13 @@
 
 <br/>
 
-![AES-256-GCM](https://img.shields.io/badge/AES--256--GCM-FF6B6B?style=for-the-badge&logoColor=white)&nbsp;
-![ML-DSA-65](https://img.shields.io/badge/ML--DSA--65_(Dilithium3)-8B5CF6?style=for-the-badge&logoColor=white)&nbsp;
-![libp2p](https://img.shields.io/badge/libp2p-0078D4?style=for-the-badge&logoColor=white)&nbsp;
-![Reed-Solomon](https://img.shields.io/badge/Reed--Solomon-10B981?style=for-the-badge&logoColor=white)&nbsp;
-![Kalman](https://img.shields.io/badge/Kalman_Filters-F59E0B?style=for-the-badge&logoColor=white)
+![AES-256-GCM](https://img.shields.io/badge/AES--256--GCM-FF6B6B?style=flat-square&logoColor=white)&nbsp;
+![ML-DSA-65](https://img.shields.io/badge/ML--DSA--65-8B5CF6?style=flat-square&logoColor=white)&nbsp;
+![libp2p](https://img.shields.io/badge/libp2p-0078D4?style=flat-square&logoColor=white)&nbsp;
+![Reed-Solomon](https://img.shields.io/badge/Reed--Solomon-10B981?style=flat-square&logoColor=white)&nbsp;
+![Kalman Filters](https://img.shields.io/badge/Kalman_Filters-F59E0B?style=flat-square&logoColor=white)&nbsp;
+![JWT](https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens&logoColor=white)&nbsp;
+![WebRTC](https://img.shields.io/badge/WebRTC-333?style=flat-square&logo=webrtc&logoColor=white)
 
 </div>
 
@@ -84,15 +97,15 @@
 
 <br/>
 
-A decentralized, fault-tolerant file-sharing system with post-quantum security.
+Decentralized, fault-tolerant file-sharing with post-quantum security from the ground up.
 
-> 🔐 Manifests signed with **ML-DSA-65** — NIST FIPS 204 quantum-resistant signatures
-> 
-> 🧩 **Reed-Solomon erasure coding** (k=4, m=2) — survives loss of any 2/6 shards
-> 
-> 🧠 **5D Kalman Filter** trust engine + CUSUM anomaly detection
-> 
-> 🔑 Zero-knowledge key exchange — keys live in URL fragment, never hit the server
+> 🔐 **ML-DSA-65** signed manifests — NIST FIPS 204 quantum-resistant
+>
+> 🧩 Reed-Solomon erasure coding (k=4, m=2) — survives 2/6 shard loss
+>
+> 🧠 5D Kalman Filter trust engine + CUSUM anomaly detection
+>
+> 🔑 Zero-knowledge key exchange via URL fragments
 
 </td>
 <td width="50%" valign="top">
@@ -106,15 +119,15 @@ A decentralized, fault-tolerant file-sharing system with post-quantum security.
 
 <br/>
 
-A fully playable 5v5 round-based defusal shooter — zero downloads, runs entirely in the browser.
+Fully playable 5v5 round-based defusal shooter — zero downloads, pure browser.
 
-> 🧠 Multi-layered bot AI: Tactical Director with `take-cover`, `trade-frag`, `hold-crossfire` + nav-mesh
-> 
-> 🌐 **Serverless P2P multiplayer** via WebRTC with full state sync
-> 
-> ⚙️ Realistic recoil patterns, damage falloff, armor pen, headshot multipliers
-> 
-> 🎯 Full CS-style economy, adaptive WebGL, spatial audio
+> 🧠 Tactical Director AI: `take-cover`, `trade-frag`, `hold-crossfire` + nav-mesh
+>
+> 🌐 Serverless P2P multiplayer via WebRTC with full state sync
+>
+> ⚙️ Realistic recoil, damage falloff, armor pen, headshot multipliers
+>
+> 🎯 CS-style economy, adaptive WebGL, spatial audio
 
 </td>
 </tr>
@@ -130,15 +143,15 @@ A fully playable 5v5 round-based defusal shooter — zero downloads, runs entire
 
 <br/>
 
-A text-based story engine where every choice echoes across branching timelines.
+Every choice echoes across branching timelines in this text-based story engine.
 
-> 📖 **1,200+ narrative fragments** with auto-detected genre & full story arc system
-> 
+> 📖 **1,200+ narrative fragments** with auto-detected genre & story arcs
+>
 > 🦋 Checkpoint branching — fork alternate realities from any moment
-> 
-> 🧠 Emotional temperature, NPC memory, behaviour tracking, foreshadowing
-> 
-> 🌍 Region sim: factions, weather, day/night, reputation, rumours
+>
+> 🧠 Emotional temperature, NPC memory, behaviour tracking
+>
+> 🌍 Region sim: factions, weather, reputation, rumours
 
 </td>
 <td width="50%" valign="top">
@@ -152,15 +165,15 @@ A text-based story engine where every choice echoes across branching timelines.
 
 <br/>
 
-Turn your hands into a musical instrument using nothing but a webcam.
+Turn your hands into a musical instrument with just a webcam.
 
-> 🖐️ Real-time 3D hand tracking — Y/X/Z map to Mod, Pan, Filter Cutoff
-> 
-> 🎹 3 modes: **Piano**, **Drums**, **Combo** with two-hand chord combos
-> 
-> 🔊 Native virtual MIDI + DAW integration: Ableton, Logic Pro, FL Studio
-> 
-> 🎛️ Speed-sensitive velocity (`40–127`) with zero-hung-note guarantee
+> 🖐️ Real-time 3D hand tracking — Y/X/Z → Mod, Pan, Filter Cutoff
+>
+> 🎹 3 modes: **Piano**, **Drums**, **Combo** with chord combos
+>
+> 🔊 Native virtual MIDI + Ableton, Logic Pro, FL Studio
+>
+> 🎛️ Speed-sensitive velocity (`40–127`), zero-hung-note guarantee
 
 </td>
 </tr>
@@ -189,8 +202,7 @@ Turn your hands into a musical instrument using nothing but a webcam.
 <h2 align="center">📊 Stats</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kaunshivansh&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=kaunshivansh&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+  <img width="60%" src="https://streak-stats.demolab.com?user=kaunshivansh&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8b949e" />
 </div>
 
 <br/>
@@ -202,27 +214,25 @@ Turn your hands into a musical instrument using nothing but a webcam.
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaunshivansh/kaunshivansh/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaunshivansh/kaunshivansh/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/kaunshivansh/kaunshivansh/output/github-snake-dark.svg" />
-  </picture>
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaunshivansh&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
 </div>
 
 ---
 
 <div align="center">
 
-**Open to internships, collaborations, and anything technically interesting.**
-
 <br/>
+
+**Open to internships, collaborations, and anything technically interesting.**
 
 *Let's build something worth building.*
 
 <br/>
 
-<a href="mailto:kaunshivansh@gmail.com"><img src="https://img.shields.io/badge/📧_kaunshivansh@gmail.com-EA4335?style=for-the-badge&logoColor=white" /></a>&nbsp;
-<a href="https://linkedin.com/in/bestman4thejob"><img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logoColor=white" /></a>
+<a href="mailto:kaunshivansh@gmail.com"><img src="https://img.shields.io/badge/kaunshivansh@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+<a href="https://linkedin.com/in/bestman4thejob"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<br/><br/>
 
 </div>
 

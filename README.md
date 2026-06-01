@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/kaunshivansh">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=60&lines=shivansh+%F0%9F%91%8B" alt="Name" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=60&lines=Hi%2C+I%27m+Shivansh+%F0%9F%91%8B" alt="Name" />
 </a>
 
 <br/>

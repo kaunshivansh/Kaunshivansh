@@ -23,13 +23,15 @@
 
 <div align="center">
 
-```
- 🎓  B.Tech CSE (Cybersecurity) @ MIT Manipal '27
- 🔐  Post-quantum crypto · Distributed systems · P2P networks
- 🌐  Rust crates → libp2p nodes → Three.js FPS engines
- 🤖  Robotics · Gesture MIDI · Competitive Programming
- 📍  Bengaluru, IN
-```
+🎓 **B.Tech CSE (Cybersecurity) @ MIT Manipal '27**
+<br/>
+🔐 **Post-quantum crypto · Distributed systems · P2P networks**
+<br/>
+🌐 **Rust crates → libp2p nodes → Three.js FPS engines**
+<br/>
+🤖 **Robotics · Gesture MIDI · Competitive Programming**
+<br/>
+📍 **Bengaluru, IN**
 
 </div>
 
@@ -85,6 +87,8 @@
 ---
 
 <h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center">
 
 <table>
 <tr>
@@ -181,6 +185,8 @@ Turn your hands into a musical instrument with just a webcam.
 </tr>
 </table>
 
+</div>
+
 ---
 
 <h2 align="center">🏆 Achievements</h2>
@@ -204,19 +210,19 @@ Turn your hands into a musical instrument with just a webcam.
 <h2 align="center">📊 Stats</h2>
 
 <div align="center">
-  <img width="65%" src="https://streak-stats.demolab.com?user=kaunshivansh&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8b949e" />
+  <img width="65%" src="https://streak-stats.demolab.com?user=kaunshivansh&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8b949e&v=10" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kaunshivansh&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area_color=1a2332" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kaunshivansh&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area_color=1a2332&v=10" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="70%" src="https://raw.githubusercontent.com/kaunshivansh/kaunshivansh/output/github-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
+  <img width="70%" src="https://raw.githubusercontent.com/kaunshivansh/kaunshivansh/output/github-snake-dark.svg?v=10" alt="GitHub Contribution Snake Animation" />
 </div>
 
 ---

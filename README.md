@@ -70,7 +70,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🌌 GaussianNetFS
+### 🌌 [GaussianNetFS](https://secure-file-share-wheat.vercel.app)
 **Post-Quantum Secure P2P Storage Engine**
 
 `Rust` `libp2p` `Next.js` `ML-DSA-65` `AES-256-GCM` `Reed-Solomon` `FastAPI` `PostgreSQL`
@@ -152,12 +152,16 @@ Turn your hands into a musical instrument using nothing but a webcam.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaunshivansh&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaunshivansh&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kaunshivansh&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaunshivansh&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=1800" height="165" alt="Top Languages" />
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=kaunshivansh&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaunshivansh&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---

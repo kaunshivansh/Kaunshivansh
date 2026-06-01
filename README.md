@@ -3,17 +3,19 @@
 <div align="center">
 
 <a href="https://github.com/kaunshivansh">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&repeat=true&width=450&height=55&lines=shivansh+%F0%9F%91%8B" alt="Name" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=60&lines=shivansh+%F0%9F%91%8B" alt="Name" />
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=3500&pause=1000&color=8B949E&center=true&vCenter=true&repeat=true&width=380&height=30&lines=rust+%C2%B7+crypto+%C2%B7+p2p+%C2%B7+systems;break+it.+learn+it.+ship+it.;if+it's+not+encrypted+%E2%80%94+no." alt="Tagline" />
+<br/>
 
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=4000&pause=1200&color=8B949E&center=true&vCenter=true&repeat=true&width=650&height=40&lines=Cybersecurity+%26+Systems+Engineer;Post-Quantum+Crypto+%C2%B7+P2P+Networks+%C2%B7+Rust;Breaking+things+to+build+them+better." alt="Tagline" />
+
+<br/>
 
 <a href="https://linkedin.com/in/bestman4thejob"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
 <a href="mailto:kaunshivansh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
 <a href="https://github.com/kaunshivansh"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=kaunshivansh&style=for-the-badge&color=1a1b27&label=VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=kaunshivansh&style=for-the-badge&color=58a6ff&label=VIEWS" />
 
 </div>
 

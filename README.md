@@ -213,6 +213,12 @@ Turn your hands into a musical instrument with just a webcam.
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kaunshivansh&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area_color=1a2332" />
 </div>
 
+<br/>
+
+<div align="center">
+  <img width="70%" src="https://raw.githubusercontent.com/kaunshivansh/kaunshivansh/output/github-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
+</div>
+
 ---
 
 <div align="center">

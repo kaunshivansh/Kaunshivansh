@@ -2,11 +2,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=hey%2C+i'm+shivansh+%F0%9F%91%8B;i+break+things+%26+build+them+better" alt="Typing SVG" />
+<a href="https://github.com/kaunshivansh">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&repeat=true&width=450&height=55&lines=shivansh+%F0%9F%91%8B" alt="Name" />
+</a>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=4000&pause=800&color=8B949E&center=true&vCenter=true&repeat=true&width=500&height=25&lines=post-quantum+crypto+%C2%B7+p2p+systems+%C2%B7+rust+%C2%B7+browser+engines;building+things+nobody+asked+for+but+everyone+needs;if+it's+not+encrypted%2C+it's+not+finished" alt="Subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=3500&pause=1000&color=8B949E&center=true&vCenter=true&repeat=true&width=380&height=30&lines=rust+%C2%B7+crypto+%C2%B7+p2p+%C2%B7+systems;break+it.+learn+it.+ship+it.;if+it's+not+encrypted+%E2%80%94+no." alt="Tagline" />
 
 <br/><br/>
 
@@ -121,11 +121,11 @@ Decentralized, fault-tolerant file-sharing with post-quantum security from the g
 
 Fully playable 5v5 round-based defusal shooter — zero downloads, pure browser.
 
-> 🧠 Tactical Director AI: `take-cover`, `trade-frag`, `hold-crossfire` + nav-mesh
+> 🧠 Tactical Director AI with nav-mesh pathfinding
 >
-> 🌐 Serverless P2P multiplayer via WebRTC with full state sync
+> 🌐 Serverless P2P multiplayer via WebRTC
 >
-> ⚙️ Realistic recoil, damage falloff, armor pen, headshot multipliers
+> ⚙️ Realistic recoil, damage falloff, armor pen
 >
 > 🎯 CS-style economy, adaptive WebGL, spatial audio
 
@@ -167,13 +167,13 @@ Every choice echoes across branching timelines in this text-based story engine.
 
 Turn your hands into a musical instrument with just a webcam.
 
-> 🖐️ Real-time 3D hand tracking — Y/X/Z → Mod, Pan, Filter Cutoff
+> 🖐️ Real-time 3D hand tracking — Y/X/Z → Mod, Pan, Cutoff
 >
-> 🎹 3 modes: **Piano**, **Drums**, **Combo** with chord combos
+> 🎹 3 modes: **Piano**, **Drums**, **Combo** with chords
 >
-> 🔊 Native virtual MIDI + Ableton, Logic Pro, FL Studio
+> 🔊 Native MIDI + Ableton, Logic Pro, FL Studio
 >
-> 🎛️ Speed-sensitive velocity (`40–127`), zero-hung-note guarantee
+> 🎛️ Speed-sensitive velocity, zero-hung-note guarantee
 
 </td>
 </tr>
@@ -187,11 +187,11 @@ Turn your hands into a musical instrument with just a webcam.
 
 | &nbsp; | Event | Details |
 |:------:|-------|---------|
-| 🥇 | **Hackwire '26** — 4th Overall | Arduino 4-DOF robotic arm with embedded sensors for automated object sorting |
-| 🤖 | **Manipal Techfest** — 4th Place | Solo engineered solutions for RoboRace and Line Follower events |
-| 💻 | **AlgoUniversity** | Ranked **#22 college-wide** in competitive programming |
+| 🥇 | **Hackwire '26** — 4th Overall | Arduino 4-DOF robotic arm w/ embedded sensors |
+| 🤖 | **Manipal Techfest** — 4th Place | Solo RoboRace + Line Follower |
+| 💻 | **AlgoUniversity** | Ranked **#22 college-wide** in CP |
 | 🛡️ | **Cisco** | Junior Cybersecurity Analyst |
-| 🔐 | **Infosys** | Cybersecurity & Applied Ethical Hacking |
+| 🔐 | **Infosys** | Cybersecurity & Ethical Hacking |
 | 🐍 | **IBM** | Python for Data Science & AI |
 | 🏢 | **SAP** | Technical Essentials |
 
@@ -202,19 +202,13 @@ Turn your hands into a musical instrument with just a webcam.
 <h2 align="center">📊 Stats</h2>
 
 <div align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=kaunshivansh&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8b949e" />
+  <img width="65%" src="https://streak-stats.demolab.com?user=kaunshivansh&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8b949e" />
 </div>
 
 <br/>
 
 <div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kaunshivansh&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area_color=1a2332" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaunshivansh&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
 </div>
 
 ---

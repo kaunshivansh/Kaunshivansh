@@ -210,19 +210,19 @@ Turn your hands into a musical instrument with just a webcam.
 <h2 align="center">📊 Stats</h2>
 
 <div align="center">
-  <img width="65%" src="https://streak-stats.demolab.com?user=KaunShivansh&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8b949e&v=10" />
+  <img width="65%" src="https://streak-stats.demolab.com?user=KaunShivansh&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8b949e&v=11" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=KaunShivansh&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area_color=1a2332&v=10" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=KaunShivansh&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area_color=1a2332&v=11" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="70%" src="https://raw.githubusercontent.com/kaunshivansh/kaunshivansh/output/github-snake-dark.svg?v=10" alt="GitHub Contribution Snake Animation" />
+  <img width="70%" src="https://raw.githubusercontent.com/kaunshivansh/kaunshivansh/output/github-snake-dark.svg?v=11" alt="GitHub Contribution Snake Animation" />
 </div>
 
 ---

@@ -75,6 +75,7 @@
 <br/>
 
 ![AES-256-GCM](https://img.shields.io/badge/AES--256--GCM-FF6B6B?style=flat-square&logoColor=white)&nbsp;
+![ML-KEM-768](https://img.shields.io/badge/ML--KEM--768-8B5CF6?style=flat-square&logoColor=white)&nbsp;
 ![ML-DSA-65](https://img.shields.io/badge/ML--DSA--65-8B5CF6?style=flat-square&logoColor=white)&nbsp;
 ![libp2p](https://img.shields.io/badge/libp2p-0078D4?style=flat-square&logoColor=white)&nbsp;
 ![Reed-Solomon](https://img.shields.io/badge/Reed--Solomon-10B981?style=flat-square&logoColor=white)&nbsp;
@@ -116,6 +117,30 @@ Decentralized, fault-tolerant file-sharing with post-quantum security from the g
 </td>
 <td width="50%" valign="top">
 
+### <a href="https://nexbeam.vercel.app">⚡ NEXBEAM</a>
+<sup><b>High-Performance Secure P2P File Transfer Engine</b></sup>
+
+<br/>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/WebRTC-333?style=flat-square&logo=webrtc&logoColor=white" /> <img src="https://img.shields.io/badge/ML--KEM--768-8B5CF6?style=flat-square" /> <img src="https://img.shields.io/badge/ML--DSA--65-8B5CF6?style=flat-square" />
+
+<br/>
+
+High-performance, private, direct browser-to-browser transfers secured by hybrid Post-Quantum cryptography.
+
+> 🔐 **Hybrid PQC Handshake** — ML-KEM-768 + X25519 with ML-DSA-65 signatures for quantum resilience
+>
+> 🚀 **Custom Transport Protocol** — Selective Repeat ARQ (SACK) with AIMD Congestion Control
+>
+> 🔄 **Session Auto-Resumption** — Instant resume of interrupted transfers using IndexedDB compound query
+>
+> 🧠 **Zero File Limits** — On-the-fly chunk encryption/streaming without loading files into RAM
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### <a href="https://cs2-web-three.vercel.app">🎮 CS2 Web</a>
 <sup><b>Browser-Based 3D Tactical FPS</b></sup>
 
@@ -136,8 +161,6 @@ Fully playable 5v5 round-based defusal shooter — zero downloads, pure browser.
 > 🎯 CS-style economy, adaptive WebGL, spatial audio
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### <a href="https://the-butterfly-effect-pink.vercel.app">🦋 The Butterfly Effect</a>
@@ -160,6 +183,8 @@ Every choice echoes across branching timelines in this text-based story engine.
 > 🌍 Region sim: factions, weather, reputation, rumours
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🎵 Air Instrument & DAW Controller
@@ -180,6 +205,9 @@ Turn your hands into a musical instrument with just a webcam.
 > 🔊 Native MIDI + Ableton, Logic Pro, FL Studio
 >
 > 🎛️ Speed-sensitive velocity, zero-hung-note guarantee
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>

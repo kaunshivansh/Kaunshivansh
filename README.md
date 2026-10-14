@@ -35,6 +35,25 @@
 
 </div>
 
+<div align="center">
+
+I build security-focused systems that are useful, weird, and a little over-engineered —
+from post-quantum file transfer and decentralized storage to browser-native games and creative tools.
+
+</div>
+
+<details>
+<summary><b>What I'm working on</b></summary>
+
+<br/>
+
+- **Applied cryptography:** making post-quantum primitives practical in real products.
+- **Distributed systems:** experimenting with resilient P2P storage and transport protocols.
+- **Creative computing:** building games, gesture-controlled instruments, and interactive worlds.
+- **Open to:** internships, research, collaborations, and ambitious side projects.
+
+</details>
+
 ---
 
 <h2 align="center">⚡ Tech Arsenal</h2>
@@ -238,19 +257,19 @@ Turn your hands into a musical instrument with just a webcam.
 <h2 align="center">📊 Stats</h2>
 
 <div align="center">
-  <img width="65%" src="https://streak-stats.demolab.com?user=kaunshivansh&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8b949e&v=12" />
+  <img width="65%" src="https://streak-stats.demolab.com?user=kaunshivansh&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8b949e&cache_seconds=86400" alt="GitHub contribution streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kaunshivansh&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area_color=1a2332&v=12" />
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaunshivansh&theme=github_dark" alt="GitHub contribution activity graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="70%" src="https://raw.githubusercontent.com/kaunshivansh/kaunshivansh/output/github-snake-dark.svg?v=12" alt="GitHub Contribution Snake Animation" />
+  <img width="70%" src="https://raw.githubusercontent.com/kaunshivansh/kaunshivansh/output/github-snake-dark.svg" alt="GitHub contribution snake animation" />
 </div>
 
 ---

@@ -257,19 +257,19 @@ Turn your hands into a musical instrument with just a webcam.
 <h2 align="center">📊 Stats</h2>
 
 <div align="center">
-  <img width="65%" src="https://streak-stats.demolab.com?user=kaunshivansh&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8b949e&cache_seconds=86400" alt="GitHub contribution streak" />
+  <img width="65%" src="https://streak-stats.demolab.com?user=kaunshivansh&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8b949e&v=13" alt="GitHub contribution streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaunshivansh&theme=github_dark" alt="GitHub contribution activity graph" />
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaunshivansh&theme=github_dark&v=13" alt="GitHub contribution activity graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="70%" src="https://raw.githubusercontent.com/kaunshivansh/kaunshivansh/output/github-snake-dark.svg" alt="GitHub contribution snake animation" />
+  <img width="70%" src="https://raw.githubusercontent.com/kaunshivansh/kaunshivansh/output/github-snake-dark.svg?v=13" alt="GitHub contribution snake animation" />
 </div>
 
 ---
